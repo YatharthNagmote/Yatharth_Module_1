@@ -1,2 +1,2 @@
-# Yatharth_Project_1
-My first project on Github
+# Project Information
+Tic Tac Toe game using C language

@@ -1,2 +1,2 @@
 # Project Information
-Tic Tac Toe game using C language
+-Tic Tac Toe game using C language
